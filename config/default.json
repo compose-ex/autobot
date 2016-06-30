@@ -1,0 +1,6 @@
+{
+  "compose": {
+    "postgres": "postgres://<user>:<password>@<host>:<port>/<db>"
+  }
+}
+

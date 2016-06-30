@@ -1,1 +1,1 @@
-# autobot
+# autobot1. clone2. npm install3. token=<slack_bot_token> node index.js
